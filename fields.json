@@ -1,0 +1,884 @@
+{
+ "slug": "maaco",
+ "brand": "Maaco",
+ "field_count": 137,
+ "franchiseFee": 45000,
+ "totalInvestmentMin": 196000,
+ "totalInvestmentMax": 644000,
+ "royaltyPercent": "8%",
+ "adFee": "$1,200 weekly",
+ "totalUnits": 363,
+ "openLocations": 363,
+ "corporateCity": "Charlotte",
+ "corporateState": "NC",
+ "corporateZip": "28202",
+ "corporateAddress": "440 South Church Street, Suite 700, Charlotte, NC 28202",
+ "description": "Maaco is an automobile painting and body repair franchise founded in 1972 by Anthony A. Martino. The franchisor, MAACO FRANCHISOR SPV LLC of Charlotte, North Carolina, is an indirect subsidiary of Driven Brands and has offered Maaco Center franchises since February 1972. Per the 2025 FDD, the initial franchise fee is $45,000, the Auto Body Conversion model requires $196,000 to $644,000 in total investment (Ground Up or Non-Auto Retrofit: $728,500 to $3,994,000), royalties are 8% of gross receipts plus a $1,200 weekly marketing fee, and territories are non-exclusive with density protection of one center per 50,000 people in the market area. Item 19 reports average 2024 gross receipts of $1,615,904 across 317 reporting centers. The system totaled 363 franchised outlets at the end of 2024.",
+ "category": "Automotive / Auto Repair & Painting",
+ "websiteUrl": "https://www.maaco.com",
+ "yearFounded": 1972,
+ "fddYear": 2025,
+ "territoryDescription": "Non-exclusive. No exclusive territory under the franchise, development, or limited-exclusivity agreements; franchisees may face competition from other franchisees, company outlets, and other channels. Density protection: the franchisor will not license another center in the same Core Based Statistical Area if it would result in more than one Maaco Center per 50,000 persons, provided the franchisee is in compliance. The franchisor and its affiliates retain all rights to establish competing businesses anywhere.",
+ "item12": "non-exclusive",
+ "item20PinCount": 16,
+ "item20_fdd_count": 363,
+ "item20_reconciliation": "FDD Item 20 Table No. 1 (p.69): 363 outlets as of 12/28/2024 (363 franchised, 0 company-owned). The pins below are FEATURED locations \u2014 15 real operational franchisees from the FDD Exhibit B-1 List of Franchisees plus the franchisor HQ \u2014 not a complete map of all outlets.",
+ "hq_source": "FDD Item 1, p.1",
+ "risk_score": 49,
+ "risk_score_method": "base 20 +10 capital intensity (Ground Up ceiling $3,994,000) +12 pending franchisee-vs-franchisor litigation (2 matters) +8 non-exclusive territory (CBSA 1-per-50,000 only) +4 full-time owner/operator +3 no financing +2 net unit decline 2022-2024 (-11.7%) +2 renewal cost drag ($2,500 + then-current terms) \u22126 Item 19 strength (317 centers, avg $1,615,904) \u22124 audited financials (Exhibit A + guaranty) \u22122 Driven Brands backing = 49/100",
+ "pins": [
+  {
+   "label": "Maaco \u2014 Birmingham, AL",
+   "city": "Birmingham",
+   "state": "AL",
+   "latitude": 33.520682,
+   "longitude": -86.802433,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Mesa, AZ",
+   "city": "Mesa",
+   "state": "AZ",
+   "latitude": 33.415101,
+   "longitude": -111.831455,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Sacramento, CA",
+   "city": "Sacramento",
+   "state": "CA",
+   "latitude": 38.581061,
+   "longitude": -121.493895,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Orlando, FL",
+   "city": "Orlando",
+   "state": "FL",
+   "latitude": 28.542122,
+   "longitude": -81.379045,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Atlanta, GA",
+   "city": "Atlanta",
+   "state": "GA",
+   "latitude": 33.754466,
+   "longitude": -84.389815,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Chicago, IL",
+   "city": "Chicago",
+   "state": "IL",
+   "latitude": 41.875562,
+   "longitude": -87.624421,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Baltimore, MD",
+   "city": "Baltimore",
+   "state": "MD",
+   "latitude": 39.290882,
+   "longitude": -76.610759,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Boston, MA",
+   "city": "Boston",
+   "state": "MA",
+   "latitude": 42.358834,
+   "longitude": -71.05783,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Detroit, MI",
+   "city": "Detroit",
+   "state": "MI",
+   "latitude": 42.331551,
+   "longitude": -83.04664,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Charlotte, NC",
+   "city": "Charlotte",
+   "state": "NC",
+   "latitude": 35.227209,
+   "longitude": -80.843083,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 East Brunswick, NJ",
+   "city": "East Brunswick",
+   "state": "NJ",
+   "latitude": 40.427884,
+   "longitude": -74.415984,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Nashville, TN",
+   "city": "Nashville",
+   "state": "TN",
+   "latitude": 36.162277,
+   "longitude": -86.774298,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Dallas, TX",
+   "city": "Dallas",
+   "state": "TX",
+   "latitude": 32.776272,
+   "longitude": -96.796856,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Richmond, VA",
+   "city": "Richmond",
+   "state": "VA",
+   "latitude": 37.538509,
+   "longitude": -77.43428,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco \u2014 Everett, WA",
+   "city": "Everett",
+   "state": "WA",
+   "latitude": 47.979344,
+   "longitude": -122.212701,
+   "hq": false,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Exhibit B-1 franchisee list"
+  },
+  {
+   "label": "Maaco HQ \u2014 440 South Church Street, Charlotte, NC",
+   "city": "Charlotte",
+   "state": "NC",
+   "latitude": 35.22546,
+   "longitude": -80.848159,
+   "hq": true,
+   "pin_source": "Nominatim forward-geocode (query A city query; query B structured) \u2014 FDD Item 1 franchisor HQ address"
+  }
+ ],
+ "breakdown": {
+  "absolute_cited": 120,
+  "theoretical": 9,
+  "matching": 8,
+  "total": 137
+ },
+ "fields": {
+  "franchisor_legal_name": {
+   "value": "MAACO FRANCHISOR SPV LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_entity_type": {
+   "value": "Delaware limited liability company",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "corporate_address": {
+   "value": "440 South Church Street, Suite 700, Charlotte, NC 28202",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 + cover, p.1"
+  },
+  "corporate_phone": {
+   "value": "704-377-8855",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "corporate_email": {
+   "value": "Ted.Rippey@drivenbrands.com",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "corporate_city": {
+   "value": "Charlotte",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_state": {
+   "value": "NC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_zip": {
+   "value": "28202",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "dba_name": {
+   "value": "Maaco",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 names: Maaco, Maaco Collision Repair & Auto Painting, America's Bodyshop"
+  },
+  "parent_name": {
+   "value": "Driven Systems LLC (direct, wholly-owned); Driven Brands, Inc. (indirect parent)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "parent_guaranty": {
+   "value": "Driven Systems guarantees the performance of Maaco (Item 21)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "predecessor": {
+   "value": "MAACO Franchising, LLC (MAA) \u2014 franchisor of Maaco Centers before the 2015 securitization transaction; originally Maaco Franchising, Inc. (Delaware, formed 2008-09-18), converted to LLC April 2013",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "brand_founded_year": {
+   "value": 1972,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 successor to the business founded by Anthony A. Martino in 1972 as Maaco Enterprises, Inc."
+  },
+  "year_franchising_began": {
+   "value": 1972,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 offering franchises for Maaco Centers under the name 'Maaco Auto Painting & Bodyworks' since February 1972"
+  },
+  "business_description": {
+   "value": "Automobile repair center specializing in automobile painting and body repair, operated under the names Maaco, Maaco Collision Repair & Auto Painting, and America's Bodyshop",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "brand_names": {
+   "value": "Maaco; Maaco Collision Repair & Auto Painting; America's Bodyshop",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "market_competition": {
+   "value": "Services used primarily by the general public for body repair, repainting and refinishing of personal automobiles; competes with automobile dealerships, national/regional automotive centers, and local body repair shops",
+   "type": "absolute",
+   "item": "FDD Item 1, p.13"
+  },
+  "ceo_name": {
+   "value": "Daniel Rivera",
+   "type": "absolute",
+   "item": "FDD Item 2, p.14"
+  },
+  "ceo_role": {
+   "value": "Manager and Chief Executive Officer of Maaco since May 2025; also CEO and President and director of Driven Brands",
+   "type": "absolute",
+   "item": "FDD Item 2, p.14"
+  },
+  "general_counsel": {
+   "value": "Scott O'Melia \u2014 Manager, Executive Vice President, and Secretary of Maaco and MAA; director, EVP, General Counsel, and Secretary of Driven Brands",
+   "type": "absolute",
+   "item": "FDD Item 2, p.14"
+  },
+  "coo_name": {
+   "value": "Jeremy McGowen \u2014 Chief Operating Officer of Maaco and MAA since November 2025; training program provided under his direction; 25 years in training, operations, sales, new unit development",
+   "type": "absolute",
+   "item": "FDD Item 11, p.47"
+  },
+  "litigation_pending_franchisee_suits": {
+   "value": 2,
+   "type": "absolute",
+   "item": "FDD Item 3, pp.16-18 \u2014 two pending franchisee-vs-franchisor matters"
+  },
+  "litigation_1": {
+   "value": "PJC Management Group, LLC et al. v. MAACO Franchisor SPV LLC, Driven Brands, Inc., and Driven Systems LLC, Case No. 25-CV-059334-590 (Mecklenburg County Superior Court, NC, filed 11/5/2025) \u2014 ten current franchisees allege breach of contract, breach of implied covenant of good faith and fair dealing, and violation of the NC Unfair and Deceptive Trade Practices Act; allege misappropriation/misuse/conversion of advertising and media fees; seek accounting, damages in excess of $1 million, treble damages, and a declaration that non-compete and certain post-termination provisions are null and void; pre-trial; defendants dispute and intend to vigorously defend",
+   "type": "absolute",
+   "item": "FDD Item 3, p.16"
+  },
+  "litigation_2": {
+   "value": "Sonia E. Bass, SEB Auto Group, LLC v. MAACO Franchisor SPV LLC, Driven Brands, Inc., Daryl Hurst, and Helmuth Mayer, Case No. 4:24-CV-00820 (E.D. Tex., filed 8/15/2024; transferred to W.D.N.C. as 3:25-cv-535-FDW-DCK on 7/21/2025) \u2014 current franchisee and guarantor allege breach of contract, Texas DTPA violations, fraudulent inducement, negligent misrepresentation, failure to disclose material information, inadequate support; seek compensatory damages in excess of $1 million plus treble DTPA damages; motion to dismiss DTPA claim pending; discovery closed 5/8/2025; no trial date set; defendants dispute and intend to vigorously defend",
+   "type": "absolute",
+   "item": "FDD Item 3, pp.16-17"
+  },
+  "litigation_franchisor_initiated": {
+   "value": "2 concluded franchisor-initiated actions: v. La Familia Auto Mechanic, LLC (D. Md. 1:24-cv-3678, filed 12/19/2024, dismissed after marks use ceased); v. J&L Auto Services, LLC (W.D.N.C. 3:24-cv-00262, filed 3/4/2024, settled and closed)",
+   "type": "absolute",
+   "item": "FDD Item 3, p.16"
+  },
+  "litigation_parent_pending": {
+   "value": "Genesee County Employees' Retirement System v. Driven Brands Holdings Inc., et al., Case No. 3:23-cv-00895-MOC-DCK (W.D.N.C., filed 12/22/2023) \u2014 pending parent-company action",
+   "type": "absolute",
+   "item": "FDD Item 3, p.17"
+  },
+  "litigation_affiliate_action": {
+   "value": "DBI agreed to pay $650,000 in penalties and costs, issue notices to New York customers, and maintain a comprehensive information security program through September 2026 (affiliate matter)",
+   "type": "absolute",
+   "item": "FDD Item 3, p.20"
+  },
+  "litigation_risk_note": {
+   "value": "Two pending franchisee-vs-franchisor suits (ad-fund misappropriation claims; fraud/misrepresentation claims), both seeking >$1M + treble damages; one pending parent securities case; no bankruptcy disclosed",
+   "type": "absolute",
+   "item": "FDD Item 3, pp.16-20"
+  },
+  "bankruptcy_disclosed": {
+   "value": "None \u2014 'No bankruptcy is required to be disclosed in this Item.'",
+   "type": "absolute",
+   "item": "FDD Item 4, p.22"
+  },
+  "initial_franchise_fee": {
+   "value": 45000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.22"
+  },
+  "franchise_fee_refundable": {
+   "value": "No \u2014 'not refundable in whole or in part under any circumstances'",
+   "type": "absolute",
+   "item": "FDD Item 5, p.22"
+  },
+  "franchise_fee_discount_2nd": {
+   "value": 22500,
+   "type": "absolute",
+   "item": "FDD Item 5, p.22 \u2014 second Maaco Center (development agreement or existing franchisee)"
+  },
+  "franchise_fee_discount_3rd": {
+   "value": 20000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.22 \u2014 third and each subsequent Maaco Center; discounts may not be combined"
+  },
+  "franchise_fee_paid_2024": {
+   "value": "Ranged from $5,000 to $45,000 in fiscal year 2024",
+   "type": "absolute",
+   "item": "FDD Item 5, p.22"
+  },
+  "development_fee": {
+   "value": "100% of the initial franchise fee for each Maaco Center required to be developed under the Development Agreement; non-refundable; credited against the initial franchise fee per center as developed; minimum 3 centers",
+   "type": "absolute",
+   "item": "FDD Item 5, p.22"
+  },
+  "initial_training_opening_fee": {
+   "value": 10000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.22 \u2014 Initial Training and Opening Fee, due no later than 30 days before arrival at initial training"
+  },
+  "initial_advertising_contribution": {
+   "value": 15000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.22 \u2014 Initial Advertising Contribution for grand opening marketing, due no later than 30 days before scheduled opening; not charged on renewal"
+  },
+  "preopening_affiliate_purchases": {
+   "value": "255000 to 344000 \u2014 estimated pre-opening purchases from affiliates (equipment package, opening inventory, stationery, signage, computer hardware)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.22"
+  },
+  "amount_to_franchisor_range": {
+   "value": "45000 to 414000 \u2014 paid to franchisor or affiliate (Auto Body Conversion and Ground Up models)",
+   "type": "absolute",
+   "item": "FDD cover, p.1"
+  },
+  "royalty_terms": {
+   "value": "8% of gross receipts, payable weekly (currently Friday, on prior week's gross receipts, by electronic withdrawal); 4% for the first 6 months for a newly developed Maaco Center; development incentive addendum may reduce weekly royalty for a limited period",
+   "type": "absolute",
+   "item": "FDD Item 6, p.25"
+  },
+  "weekly_marketing_fee": {
+   "value": 1200,
+   "type": "absolute",
+   "item": "FDD Item 6, p.25 \u2014 $1,200 per week, or the weekly marketing budget of franchisees operating in the designated market area as of the franchise agreement date, whichever is greater; in addition to the Initial Advertising Contribution"
+  },
+  "software_license_fee": {
+   "value": "799 to 973 per month \u2014 CCC One Base Package license fee ($799 through 10/31/2026, stepping to $973 from 11/1/2029), plus taxes; optional add-ons $60-$200/mo",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.25-26"
+  },
+  "transfer_fee": {
+   "value": 3000,
+   "type": "absolute",
+   "item": "FDD Item 6, p.26"
+  },
+  "renewal_fee": {
+   "value": 2500,
+   "type": "absolute",
+   "item": "FDD Item 6, p.26 \u2014 due on or before renewal date, included with renewal documents"
+  },
+  "sales_commission": {
+   "value": "10% of the gross sales price of the Center or $30,000, whichever is greater \u2014 paid to us if we obtain a purchaser for your Center",
+   "type": "absolute",
+   "item": "FDD Item 6, p.26"
+  },
+  "late_interest": {
+   "value": "Maximum rate permitted by law or 1.5% per month, compounded monthly, on any late payment",
+   "type": "absolute",
+   "item": "FDD Item 6, p.26"
+  },
+  "gross_receipts_definition": {
+   "value": "Amount of all cash collected, or other consideration received, for all sales of merchandise and services of any nature at, from or in connection with the Maaco Center, plus work completed but unpaid for 90 days, less sales or equivalent taxes",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "investment_min": {
+   "value": 196000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.30 \u2014 Auto Body Conversion Center total"
+  },
+  "investment_max": {
+   "value": 644000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.31 \u2014 Auto Body Conversion Center total"
+  },
+  "investment_model": {
+   "value": "Auto Body Conversion Center (existing auto-body structure, no structural modification needed)",
+   "type": "absolute",
+   "item": "FDD Item 7, p.30"
+  },
+  "investment_groundup_min": {
+   "value": 728500,
+   "type": "absolute",
+   "item": "FDD Item 7, p.31 \u2014 Ground Up or Non-Auto Retrofit Center total"
+  },
+  "investment_groundup_max": {
+   "value": 3994000,
+   "type": "absolute",
+   "item": "FDD Item 7, p.32 \u2014 Ground Up or Non-Auto Retrofit Center total"
+  },
+  "investment_components": {
+   "value": "Initial franchise fee $45,000; training/opening $10,000; initial advertising $15,000; training living expenses $3,500-$5,000; equipment/signage/computer $32,500-$307,000; opening inventory $15,000-$37,000; construction/design/TI/misc $25,000-$150,000 (conversion); additional funds 3 months $50,000-$75,000",
+   "type": "absolute",
+   "item": "FDD Item 7, pp.30-31"
+  },
+  "investment_refundable": {
+   "value": "None of the expenses listed in the Item 7 table are refundable (unless otherwise noted); estimates do not consider revenue during the first 3 months",
+   "type": "absolute",
+   "item": "FDD Item 7, p.32"
+  },
+  "required_purchases": {
+   "value": "Must purchase/lease specified items from approved suppliers; may elect to purchase equipment package, opening inventory, stationery, signage, and computer hardware from affiliates ($255,000-$344,000 estimated)",
+   "type": "absolute",
+   "item": "FDD Item 8, p.35 + Item 5, p.22"
+  },
+  "financing_offered": {
+   "value": "No \u2014 'We do not offer direct or indirect financing. We do not guarantee your note, lease, or obligation.'",
+   "type": "absolute",
+   "item": "FDD Item 10, p.39"
+  },
+  "training_hours": {
+   "value": 127,
+   "type": "absolute",
+   "item": "FDD Item 11, p.47 \u2014 127 classroom hours total (0 on-the-job hours in the table; supplemental on-the-job hours may be added)"
+  },
+  "training_location": {
+   "value": "Charlotte, North Carolina",
+   "type": "absolute",
+   "item": "FDD Item 11, p.47"
+  },
+  "training_subjects": {
+   "value": "Pre-work (LMS, 5 hrs), Maaco Mindset and Business Model, Products and Services, Warranty, Phone Track, Sales Track (24 hrs), CCC One Estimating and POS (28 hrs), Sales Management, Marketing Overview, Trade and National Fleet, Hands-on Production/Shop (24 hrs), Production Management (8 hrs), Equipment/Facility Maintenance, Environmental and Safety, Success Plan, Forecasting and Profit Model, KPI Benchmarking, Staffing, Customer Management/CSI, Inventory, Supplier Relationships, Homework, Testing & Final Success Plan Presentation",
+   "type": "absolute",
+   "item": "FDD Item 11, p.47"
+  },
+  "training_attendees": {
+   "value": "You (or your majority investor) and the Center's principal operator (if not you) must attend and complete initial training to our satisfaction; additional attendees $2,500 each; travel/lodging/meals at your expense",
+   "type": "absolute",
+   "item": "FDD Item 11, p.47 + Item 5, p.22"
+  },
+  "training_cost": {
+   "value": 10000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.22 \u2014 Initial Training and Opening Fee covers opening assistance and the initial training program (instructors, facilities, materials only)"
+  },
+  "preopening_assistance": {
+   "value": "Designate the area for site selection; site specifications and standards; (additional pre-opening obligations listed in the franchise agreement)",
+   "type": "absolute",
+   "item": "FDD Item 11, p.40"
+  },
+  "advertising_coops": {
+   "value": "None \u2014 'There are no advertising cooperatives.'",
+   "type": "absolute",
+   "item": "FDD Item 6, p.26"
+  },
+  "computer_system": {
+   "value": "Must license the CCC One Management System software from the designated supplier ($799-$973/mo); franchisor collects the fee on the supplier's behalf",
+   "type": "absolute",
+   "item": "FDD Item 6, pp.25-26 + Item 11"
+  },
+  "territory_exclusive": {
+   "value": "No \u2014 non-exclusive under the Franchise Agreement, Development Agreement, and Limited Exclusivity Addendum",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "territory_density_protection": {
+   "value": "If we desire to license a third party to establish a Maaco Center in the Core Based Statistical Area (CBSA) where the Center is located, and the franchisee is in compliance, we will not grant that license if it results in more than one Maaco Center per 50,000 persons in the CBSA",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "territory_solicitation": {
+   "value": "Not restricted as to the area into which the franchisee may solicit business or the customers solicited; no right to use other channels of distribution (Internet, catalog, direct marketing)",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "territory_relocation": {
+   "value": "No relocation without prior written approval; relocation application with site demographics reviewed",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "franchisor_reserved_rights": {
+   "value": "Franchisor, subsidiaries and affiliates retain all rights to establish/operate competing businesses anywhere under any marks, subject only to the CBSA density restriction",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "development_area": {
+   "value": "Minimum 3 Maaco Centers per Development Agreement; Development Area described by county boundaries; sizes vary by market economics, demographics, site availability",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48"
+  },
+  "trademarks": {
+   "value": "Maaco, Maaco Collision Repair & Auto Painting, America's Bodyshop (principal marks)",
+   "type": "absolute",
+   "item": "FDD cover, p.1 + Item 13, p.51"
+  },
+  "owner_operator_required": {
+   "value": "Yes \u2014 'you (or the Center's principal operator) must devote full time, energy and efforts to the management and supervision of the Center' except as otherwise approved by us in writing",
+   "type": "absolute",
+   "item": "FDD Item 15, p.53"
+  },
+  "sell_restrictions": {
+   "value": "Operate only as an automobile repair center specializing in automobile painting and body repair at the approved location",
+   "type": "absolute",
+   "item": "FDD Item 12, p.48 + Item 16, p.54"
+  },
+  "franchise_term_years": {
+   "value": 15,
+   "type": "absolute",
+   "item": "FDD Item 17, p.56"
+  },
+  "renewal_term_years": {
+   "value": 15,
+   "type": "absolute",
+   "item": "FDD Item 17, p.56 \u2014 15-year renewal if requirements met; no renewal/extension under the Development Agreement"
+  },
+  "renewal_requirements": {
+   "value": "Written notice; not in default; all amounts paid; current lease; assignment of leasehold interest; refurbish Center; sign release (if state law allows); pay $2,500 renewal fee; sign then-current franchise agreement and Renewal Addendum (which 'could contain materially different terms (including fees)')",
+   "type": "absolute",
+   "item": "FDD Item 17, p.56"
+  },
+  "governing_law": {
+   "value": "North Carolina law applies (subject to state law)",
+   "type": "absolute",
+   "item": "FDD Item 17, p.64"
+  },
+  "dispute_notes": {
+   "value": "Post-termination obligations and non-competition covenants summarized in Item 17 table (Franchise Agreement Paragraphs 16, 18)",
+   "type": "absolute",
+   "item": "FDD Item 17, pp.56-63"
+  },
+  "public_figures": {
+   "value": "None \u2014 'We do not use any public figure to promote our franchise.'",
+   "type": "absolute",
+   "item": "FDD Item 18, p.64"
+  },
+  "item19_disclosed": {
+   "value": "Yes \u2014 Part A: Gross Receipts and Key Performance Indicators; Part B (additional, per Item 19 continuation)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_measurement_period": {
+   "value": "2024 Fiscal Year: December 31, 2023 through December 28, 2024",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_reporting_outlets": {
+   "value": 317,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 franchised centers operating >=2 full years as full-production locations with full-year reported data"
+  },
+  "item19_total_operating": {
+   "value": 363,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 total Maaco Centers in operation at end of 2024 Fiscal Year"
+  },
+  "item19_exclusions": {
+   "value": "Excluded: 11 centers open <2 full years; 33 centers without full-year gross receipts reports; 2 satellite locations; 19 centers that closed during the fiscal year (none open <12 months)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_avg_gross_receipts": {
+   "value": 1615904,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_median_gross_receipts": {
+   "value": 1348304,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_top50_avg_gross_receipts": {
+   "value": 2226532,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 top 50% (159 centers)"
+  },
+  "item19_bottom50_avg_gross_receipts": {
+   "value": 1001411,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 bottom 50% (158 centers)"
+  },
+  "item19_top50_lowest": {
+   "value": 1348304,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_top50_highest": {
+   "value": 10463135,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_top50_median": {
+   "value": 1762542,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_bottom50_lowest": {
+   "value": 445821,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_bottom50_highest": {
+   "value": 1342652,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_bottom50_median": {
+   "value": 1044398,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_pct_met_avg": {
+   "value": "110 of 317 (35%) met or exceeded the average gross receipts",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_avg_years_operating": {
+   "value": 25.9,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 average years the 317 centers have operated"
+  },
+  "item19_trade_pct": {
+   "value": "Average 36% (median 31%; top 50% 44%; bottom 50% 27%)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_conversion_pct": {
+   "value": "Average 53% (median 52%)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_retention_pct": {
+   "value": "Average 50% (median 49%)",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_avg_estimates": {
+   "value": 1102,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_avg_total_cars": {
+   "value": 869,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_coverage_pct": {
+   "value": 87,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 317 of 363 operating centers included"
+  },
+  "item20_total_2024": {
+   "value": 363,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69 \u2014 Table No. 1, all franchised; 0 company-owned"
+  },
+  "item20_franchised_2024": {
+   "value": 363,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_company_owned_2024": {
+   "value": 0,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_total_2023_end": {
+   "value": 376,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_total_2022_end": {
+   "value": 398,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_total_2022_start": {
+   "value": 411,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_net_change_2024": {
+   "value": -13,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_net_change_2023": {
+   "value": -22,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_net_change_2022": {
+   "value": -13,
+   "type": "absolute",
+   "item": "FDD Item 20, p.69"
+  },
+  "item20_transfers_2024": {
+   "value": 16,
+   "type": "absolute",
+   "item": "FDD Item 20, p.70 \u2014 Table No. 2 totals"
+  },
+  "item20_schedule_entries_parsed": {
+   "value": 363,
+   "type": "absolute",
+   "item": "FDD Exhibit B-1 List of Maaco Franchisees as of 12/28/2024 \u2014 363 city/state rows parsed (45 states + Puerto Rico)"
+  },
+  "financial_statements": {
+   "value": "Audited consolidated financial statements of Driven Systems (Exhibit A); Driven Systems guarantees Maaco's performance",
+   "type": "absolute",
+   "item": "FDD Item 21, p.78"
+  },
+  "contracts_exhibit": {
+   "value": "Franchise Agreement (Exhibit C); Development Agreement (Exhibit H); Fleet Addendum (Exhibit G); Renewal Addendum (Exhibit E); state addenda through Exhibit T",
+   "type": "absolute",
+   "item": "FDD Item 22, p.78"
+  },
+  "fdd_issue": {
+   "value": "2025 FDD with 12/2025 amendment (document footer 1626626775.2; exhibits footer 1616434218.2)",
+   "type": "absolute",
+   "item": "FDD cover"
+  },
+  "netWorthRequirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "FDD \u2014 grep over source FDD text for 'net worth' returns 18 hits, ALL in Guarantor Net Worth Threshold contexts ($1,000,000 for area developers' guarantors, Development Agreement/Exhibit D); none is a franchisee net-worth requirement"
+  },
+  "netWorthRequirementNote": {
+   "value": "No minimum net worth for franchisees is stated anywhere in the disclosure document; the $1,000,000 Guarantor Net Worth Threshold applies only to area developers' guarantors",
+   "type": "absolute",
+   "item": "grep proof: 'net worth' x18 hits, all guarantor-threshold contexts"
+  },
+  "liquidCapitalRequirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "FDD \u2014 grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated anywhere in the FDD"
+  },
+  "liquidCapitalRequirementNote": {
+   "value": "No liquid-capital requirement appears anywhere in the disclosure document",
+   "type": "absolute",
+   "item": "grep proof: 'liquid capital'/'liquid assets' x0 hits"
+  },
+  "risk_score": {
+   "value": 49,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: base 20 +10 capital intensity (dual-model; Ground Up/Non-Auto Retrofit ceiling $3,994,000) +12 pending franchisee-vs-franchisor litigation (2 matters: PJC Management Group ad-fund suit filed 11/2025; Bass fraud/DTPA suit; both >$1M + treble sought) +8 non-exclusive territory (CBSA density protection only: 1 center per 50,000 persons) +4 full-time owner/operator required +3 no financing offered +2 net unit decline 2022-2024 (-48 outlets, -11.7%) +2 renewal cost drag ($2,500 fee + then-current agreement with potentially different terms) -6 Item 19 strength (317 centers, avg gross receipts $1,615,904, median $1,348,304) -4 audited financials attached (Exhibit A, Driven Systems + performance guaranty) -2 Driven Brands platform backing (indirect parent) = 49/100"
+  },
+  "fee_burden_ratio_pct": {
+   "value": 23.0,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: initial franchise fee $45,000 / Item 7 minimum investment $196,000 = 22.96% (Auto Body Conversion model)"
+  },
+  "ongoing_fee_burden": {
+   "value": "8% royalty of gross receipts + $1,200/week marketing fee (or market-area budget, whichever greater) + $799-$973/mo software license",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: Item 6, pp.25-26"
+  },
+  "unit_change_2022_2024_pct": {
+   "value": -11.7,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: (363 - 411) / 411 = -11.68% net outlet change from start-2022 to end-2024 (Item 20 Table No. 1)"
+  },
+  "support_score_estimate": {
+   "value": 6,
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: scale 1-10: 127-hour initial training in Charlotte, site/designation assistance, Driven Brands platform support; capped by non-exclusive territory, no financing, full-time owner requirement; labeled estimate"
+  },
+  "litigation_risk_flag": {
+   "value": "HIGH",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: 2 pending franchisee-vs-franchisor suits (both >$1M + treble damages sought) + 1 pending parent securities case + 1 affiliate $650K penalty action"
+  },
+  "item19_confidence": {
+   "value": "STRONG",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: n=317 franchised centers (87% of the 363-outlet system), average 25.9 years operating, reporting average/median/high/low gross receipts plus trade/conversion/retention KPIs"
+  },
+  "saturation_index": {
+   "value": "moderate",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: 363 outlets across 45 states + Puerto Rico; non-exclusive with only CBSA density protection (1 per 50,000 persons); labeled estimate"
+  },
+  "payback_note": {
+   "value": "Item 19 reports gross receipts only (no cost/profit figures disclosed); payback cannot be computed from the FDD \u2014 gross receipts are not profit",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: FDD Item 19, pp.64-68"
+  },
+  "match_capital_min": {
+   "value": 196000,
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 7 low-end investment (Auto Body Conversion)"
+  },
+  "match_capital_target": {
+   "value": 420000,
+   "type": "matching",
+   "item": "MATCHING \u2014 method: midpoint of Auto Body Conversion Item 7 range ($196,000-$644,000), labeled midpoint"
+  },
+  "match_experience": {
+   "value": "No specific prior experience required; full-time owner/operator participation required unless approved otherwise in writing",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 15, p.53"
+  },
+  "match_operational": {
+   "value": "Full-time owner-operator model; principal operator must complete 127-hour initial training in Charlotte",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 15, p.53 + Item 11, p.47"
+  },
+  "match_lifestyle": {
+   "value": "Not semi-absentee \u2014 full-time devotion to management and supervision is required",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 15, p.53"
+  },
+  "match_risk_appetite": {
+   "value": "Moderate-high: 8% royalty + $1,200/wk marketing + software license, $196K-$3.99M capital range, 2 pending franchisee suits",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: risk inputs: Items 3, 6, 7"
+  },
+  "match_location": {
+   "value": "US; auto-body facility (conversion of existing shop preferred); franchisor designates the area for site selection; prior written approval required to relocate",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 7 + Item 11, p.40 + Item 12, p.48"
+  },
+  "match_timeline": {
+   "value": "Initial Training and Opening Fee due 30 days before training; Initial Advertising Contribution due 30 days before opening",
+   "type": "matching",
+   "item": "MATCHING \u2014 method: Item 5, p.22"
+  }
+ },
+ "extractor": "maaco-build (MapKI next-20 wave / wave 2 NASAA, 2026-09-14)",
+ "extraction_timestamp_utc": "2026-09-14T17:39:56.987353+00:00",
+ "fdd_filename": "maaco.pdf (Maaco 2025 FDD + 12/2025 amendment)",
+ "fdd_sha256": "baad3347ef793b5e982c25a555721a82b8d66b7cf1fc6c58a46c41a95cfc58a2",
+ "live_url": "https://bennett-maxwell.github.io/maaco/",
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "grep over source FDD text for 'net worth' returns 18 hits, all in Guarantor Net Worth Threshold contexts ($1,000,000 for area developers' guarantors); none is a franchisee net-worth requirement",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "grep over source FDD text for 'liquid capital' and 'liquid assets' returns 0 hits; no minimum liquid capital is stated in the FDD",
+ "pinVerification": {
+  "method": "D4-08 per-pin geocode re-run (independent forward geocode of each labeled city/state; haversine vs plotted coordinate, 50 km tolerance; HQ pin at street-address geocode, 0.5 km from city centroid)",
+  "run_utc": "2026-09-14T17:35:40Z",
+  "passed": 16,
+  "total": 16
+ },
+ "pinsUpdatedAt": "2026-09-14T17:35:40Z"
+}
